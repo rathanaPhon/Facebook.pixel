@@ -1,7 +1,7 @@
 <!DOCTYPE html">
 <html lang="en-km">
    <head>
-    
+      </head>
 <meta charset="Utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="viewport" content="width"=device-widh, initial-scale="1"/> 
@@ -15,17 +15,17 @@ n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 documents, 'script' //connect.facebooks.net/en_US/fbevents'js');
 
- fbq('init', '1234567890');
+ fbq('init', '100080755802056');
  fbq('track', "PageView");
  </script>
 <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1234567890&ev=PageView&noscript=1"
+src="https://www.facebook.com/profile.php?id=100080755802056&mibextid=ZbWKwL=PageView&noscript=1"
 /></noscript>
  <!-- End Facebook Pixel Code -->
  </head>
      <body>
          <h1>
-             Facebook pixeil
+              Facebook pixeil
         </h1>
     <niv>
  <!-- End Facebook Pixel Code -->
@@ -37,7 +37,7 @@ fbq('track', 'ViewContent', {
 </script>
 <noscript>
 <img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1234567890&ev=ViewContent&cd[content_ids]= ids}}&cd[content_name]={{product_name}}&noscript=1"
+src="https://www.facebook.com/profile.php?id=100080755802056&mibextid=ZbWKwL=ViewContent&cd[content_ids]= ids}}&cd[content_name]={{product_name}}&noscript=1"
 {{product /></noscript>
  <!-- End Facebook Pixel Code -->
  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
