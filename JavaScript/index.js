@@ -1,21 +1,52 @@
+<script type="application/json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Cambodia & Supply Co",
+  "image": "https://w.",
+  "@id": "",
+  "url": "https://",
+  "telephone": "",
+  "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "",
+  "addressLocality": "City",
+  "addressRegion": "ខ័ណ",
+  "postalCode": "",
+  "addressCountry": "Khmer"
+},
+  "geo": {
+  "@type": "GeoCoordinates",
+  "latitude": id,
+  "longitude":id -
+},
+  "openingHoursSpecification": [{
+  "@type": "OpeningHoursSpecification",
+  "dayOfWeek": [
+],
+},{
+  "@type": "OpeningHoursSpecification",
+  "dayOfWeek": "Saturday",
+  "opens": "08:00",
+  "closes": "14:00"
+}],
+  "sameAs": "https:/wn/" }
+</script>
 <script type="text/javascript">
-document.getElementById("link").classList.toggle("active");
-document.getElementById("ul").classList.toggle("link");
-document.write('<script src="https://www.esample.com/ad-inject.js"></script>');
- function showreview(auto) {
-    $(document).ready(function(){
-       console.log("if");
-         $.ajax ({
-   </script>
-  <script type="text/javascript">
-             dataType: "jsonp",
-             type: 'GET',
-             url: "https:// www.">
-             success: function(data) {
-           console.log("Website");
-          },
-             error: function("if"){
-             console.log("hello,would");
-          }
-    </script>
+  $('[data-tgreviews="scroll"]').on('click', function(event) {
+     event.preventDefault();
+  $('#tab-tgr_reviews').prop('checked', true);
+  var top = 0;
+  if ('form' === $(this).data('target')) {
+  $('.tgreviews__form').each(function() {
+    top = $(this).offset().top;
+  });
+  if (!top) {
+  top = $('form[name="tgreviews"]').offset().top;
+ }
+} else {
+  top = $('.x-product-description').offset().top;
+ }
+  $("html, body").animate({ scrollTop: top }, 1000);
  });
+</script>
