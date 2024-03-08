@@ -1,0 +1,32 @@
+<!DOCTYPE hml>
+<html>
+  <head>
+    <title>Google.map</title>
+     <meta name="robots" content="noindex" />
+     <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>   
+     <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2024-10-2</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+      <loc>https://www.example.com/sitemap1.xml.gz</loc>
+      <lastmod>2024-2-01T18:23:17+00:00</lastmod>
+   </sitemap>
+</sitemapindex>
+<link rel="alternate" hreflang="en" href="https://www.example.com/en" />
+<link rel="alternate" hreflang="gr" href="https://www.example.com/gr" />
+ <script type="text/JavaScript">
+   function initMap() {
+      map = new google.maps.Map(document.getElementById("map"), {
+      zoom: 8,
+      center: { lat: -34.397, lng: 150.644 },
+      mapTypeControl: false,
+    });
+  }
+ </script>
