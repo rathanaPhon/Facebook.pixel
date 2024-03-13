@@ -10,17 +10,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <sitemap>   
      <url>
-        <loc>https://example.com/</loc>
+        <loc>https://rathanaphon.github.io/sitemap1.xml.</loc>
         <lastmod>2024-10-2</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <priority>1000.0</priority>
     </url>
-      <loc>https://www.example.com/sitemap1.xml.gz</loc>
+      <loc>https://rathanaphon.github.io/sitemap1.xml.gz</loc>
       <lastmod>2024-2-01T18:23:17+00:00</lastmod>
    </sitemap>
 </sitemapindex>
-<link rel="alternate" hreflang="en" href="https://www.example.com/en" />
-<link rel="alternate" hreflang="gr" href="https://www.example.com/gr" />
+<link rel="alternate" hreflang="en" href="https://rathanaphon.github.io/sitemap1en" />
+<link rel="alternate" hreflang="gr" href="https://rathanaphon.github.io/sitemap1/gr" />
  <script type="text/JavaScript">
    function initMap() {
       map = new google.maps.Map(document.getElementById("map"), {
