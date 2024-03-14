@@ -1,3 +1,10 @@
+Troubleshooting info:
+  Principal: phonrathana738@gmail.com
+  Resource: fir-demo-project
+  Troubleshooting URL: console.cloud.google.com/iam-admin/troubleshooter;permissions=iam.serviceAccounts.list;principal=phonrathana738@gmail.com;resources=%2F%2Fcloudresourcemanager.googleapis.com%2Fprojects%2Ffir-demo-project/result
+
+Missing permissions:
+  iam.serviceAccounts.list
 var firebaseConfig = {
   apiKey: "AIzaSyA49nis0VWifZkBCVH-RUWl9nK3d7dcAag",
   authDomain: "website-e6c82.firebaseapp.com",
