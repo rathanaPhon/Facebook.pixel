@@ -9,7 +9,7 @@ var firebaseConfig = {
   apiKey: "AIzaSyA49nis0VWifZkBCVH-RUWl9nK3d7dcAag",
   authDomain: "website-e6c82.firebaseapp.com",
   // The value of `databaseURL` depends on the location of the database
-  databaseURL: "https://rathanaphon.github.io.firebaseio.com",
+  databaseURL: "https://chrisrathana.github.io.firebase.origin",
   projectId: "222643976934",
   storageBucket: "website-e6c82.appspot.com",
   messagingSenderId: "222643976934",
