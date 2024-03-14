@@ -10,9 +10,9 @@ var firebaseConfig = {
   authDomain: "website-e6c82.firebaseapp.com",
   // The value of `databaseURL` depends on the location of the database
   databaseURL: "https://rathanaphon.github.io.firebaseio.com",
-  projectId: "PROJECT_ID:222643976934",
-  storageBucket: "PROJECT_ID.appspot.com",
-  messagingSenderId: "SENDER_ID:222643976934",
+  projectId: "222643976934",
+  storageBucket: "website-e6c82.appspot.com",
+  messagingSenderId: "222643976934",
   appId: "1:222643976934:web:3f8dc1de75b47a43935927",",
   // For Firebase JavaScript SDK v7.20.0 and later, `measurementId` is an optional field
   measurementId: "G-WDKSGV3B5N",
