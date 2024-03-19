@@ -1,12 +1,9 @@
-Troubleshooting info:
-  Principal: phonrathana738@gmail.com
-  Resource: fir-demo-project
-  Troubleshooting URL: console.cloud.google.com/iam-admin/troubleshooter;permissions=iam.serviceAccounts.list;principal=phonrathana738@gmail.com;resources=%2F%2Fcloudresourcemanager.googleapis.com%2Fprojects%2Ffir-demo-project/result
 {
   "project_info": {
     "project_number": "222643976934",
-    "project_id": "website-e6c82",
-     "storage_bucket": "website-e6c82.appspot.com"
+      "firebase_url": "https://rathanaphon.github.io/firebas.origin/",
+        "project_id": "website-e6c82",
+      "storage_bucket": "website-e6c82.appspot.com"
   },
   "client": [
     {
