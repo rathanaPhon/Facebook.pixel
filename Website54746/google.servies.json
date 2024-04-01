@@ -3,14 +3,14 @@
     "project_number": "222643976934",
       "firebase_url": "https://rathanaphon.github.io/firebas.origin/",
       "project_id": "website-e6c82",
-      "storage_bucket": "website-e6c82.appspot.com"
+      "storage_bucket": "https://rathanaphon.page.line/com.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "web_app_id": "1:222643976934:web:3f8dc1de75b47a43935927",
         "wed_client_info": {
-          "package_name": "rathanaphon.github.io.com"
+          "package_name": "https://rathanaphon.page.line/com/"
         }
       },
       "oauth_client": [],
